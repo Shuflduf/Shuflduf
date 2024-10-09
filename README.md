@@ -1,1 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shuflduf&theme=dark&border_radius=10&background=90%2C000000%2C5BFF6E&ring=88FF83&fire=88FF83&currStreakLabel=88FF83)](https://git.io/streak-stats)
+# 🐸🚀
+- dominating grade 10 comp sci
+- 🦀
+- he/him
