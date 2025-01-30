@@ -1,9 +1,9 @@
 # 🐸🚀
 
-<a href="https://github.com/anuraghazra">
+<a href="https://github.com/shuflduf">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shuflduf&include_all_commits=true&rank_icon=github&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra">
+<a href="https://github.com/shuflduf">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuflduf&layout=compact&theme=transparent" />
 </a>
 
